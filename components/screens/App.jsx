@@ -128,6 +128,7 @@ const App = () => {
         {/* <TouchableOpacity style={styles.button} onPress={() => handleGameSizeSelection(5)}>
           <Text style={styles.buttonText}>5 x 5</Text>
         </TouchableOpacity> */}
+        
       </View>
     );
   }
